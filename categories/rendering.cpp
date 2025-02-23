@@ -1,5 +1,5 @@
 #include "rendering.h"
-#include "../imgui/imgui.h"
+#include <imgui.h>
 
 typedef unsigned long ulong;
 

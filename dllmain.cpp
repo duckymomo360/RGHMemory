@@ -5,7 +5,7 @@
 #include <glm/gtx/string_cast.hpp>
 #include <minhook.h>
 
-#include "imgui/imgui.h"
+#include <imgui.h>
 #include "ui.h"
 
 #include "categories/camera.h"

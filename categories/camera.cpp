@@ -4,7 +4,7 @@
 #include <glm/gtx/transform.hpp>
 #include <minhook.h>
 
-#include "../imgui/imgui.h"
+#include <imgui.h>
 
 char** camera = reinterpret_cast<char**>(0x009de078);
 glm::mat4* matrix = reinterpret_cast<glm::mat4*>(*camera);
